@@ -1,1 +1,3 @@
 "# pythonSalesDataObj" 
+
+this was finalCapstone project for python... Just basics but still...
